@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Volume 1 of Arber’s transcript of the Stationers' Register</title>
+                <title>Volume 1 of the copy entries in the Stationers' Register</title>
                 <principal>
                <persName>Giles Bergel</persName>, <orgName>University of
                     Oxford</orgName>
@@ -60,7 +60,8 @@
             </projectDesc>
         </encodingDesc>
        <revisionDesc>
-          <change when="2017-06-7">clean up ffs</change>
+          <change when="2017-06-22">processing editorial notes</change>
+          <change when="2017-06-07">clean up ffs</change>
           <change when="2017-05-27">SP01 final amendments</change>
           <change when="2017-04-12">SP01 SRO853-SRO1264</change>
           <change when="2017-04-09">SP01 SRO459-SRO852</change>
@@ -53893,14 +53894,8 @@
                <pb n="I. 444"/> 
             </fw>
             </div>
-
-
-
-
-
+    
             
-            
-            
-        </body>
+          </body>
     </text>
 </TEI>
