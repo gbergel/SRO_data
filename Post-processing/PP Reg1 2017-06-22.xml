@@ -60,7 +60,9 @@
             </projectDesc>
         </encodingDesc>
        <revisionDesc>
-          <change when="2017-06-22">processing editorial notes</change>
+          <change when="2017-06-26">GB amend re Blayney comments</change>
+          <change when="2017-06-26">GB clean up ffs</change>
+          <change when="2017-06-22">GB processing editorial notes</change>
           <change when="2017-06-07">clean up ffs</change>
           <change when="2017-05-27">SP01 final amendments</change>
           <change when="2017-04-12">SP01 SRO853-SRO1264</change>
@@ -3365,7 +3367,7 @@
                 
                 <div type="fines">
                     <head rend="blackletter"> 
-                  <hi rend="large">ffor takynge of fynes<lb/> for
+                  <hi rend="large">For takynge of fynes<lb/> for
                         Copyes</hi> 
                   <lb/> 
                   <hi rend="medium">as foloweth</hi> 
@@ -5545,7 +5547,7 @@
                
                <div type="entry" xml:id="SRO54c">
                   <p>Recevyd of <persName role="stationer enterer">
-                     <forename>ffraunces</forename> 
+                     <forename>Fraunces</forename> 
                      <surname>Coldoke</surname> 
                   </persName>
                      for his Lycense for pryntinge of a boke intituled <title><persName><surname><hi rend="smallcaps">bale</hi></surname></persName> 
@@ -8929,7 +8931,7 @@
             </fw>
                 <div type="fines">
                     <head rend="blackletter"> 
-                  <hi rend="large">ffor Takynge of Fynes<lb/> for
+                  <hi rend="large">For Takynge of Fynes<lb/> for
                         Copyes</hi> 
                   <lb/> 
                   <hi rend="medium">as folowethe</hi> 
@@ -9172,7 +9174,7 @@
                         <forename>William</forename> 
                         <surname>Serys</surname>
                                 </persName> for his lycense for pryntinge of a boke intituled
-                               <title>the perfett newes out of <placeName type="pla">Ffraunce</placeName></title> and one
+                               <title>the perfett newes out of <placeName type="pla">Fraunce</placeName></title> and one
                                 other boke intituled <title>diologus contra
                                 papystim</title> 
                      <seg type="fee" subtype="sum" rend="roman-numerals aligned-right"><!--processing: viijd-->
@@ -9813,7 +9815,7 @@
                                 <forename>John</forename> 
                         <surname>Alde</surname> 
                      </persName> for his lycense for pryntinge of <title>an almanack &amp; pronostication of <persName role="non-stationer">
-                                <forename>Ffraunces</forename> 
+                                <forename>Fraunces</forename> 
                         <surname>Coxe</surname></persName></title>
                                
                                 <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
@@ -10343,7 +10345,7 @@
                                 <forename>Edmonde</forename> 
                         <surname>hally</surname> 
                      </persName> for his lycense for pryntinge of <title>a Complante
-                                agaynste the barber<supplied resp="#arber">o</supplied>us tyranny executed in <placeName type="pla">Ffraunce</placeName> 
+                                agaynste the barber<supplied resp="#arber">o</supplied>us tyranny executed in <placeName type="pla">Fraunce</placeName> 
                      vpon the poore members</title> 
                                
                      <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
@@ -11840,13 +11842,13 @@
                     <div type="entry" xml:id="SRO207">
                         <head rend="left"> 
                      <persName role="stationer enterer">
-                            <forename>ffraunces</forename> 
+                            <forename>Fraunces</forename> 
                         <surname>godlyfe</surname> 
                      </persName> 
                   </head>
                         
                             <p>Recevyd of <persName role="stationer enterer">
-                                <forename>ffraunces</forename> 
+                                <forename>Fraunces</forename> 
                         <surname>godlyfe</surname>
                                 </persName> for his lycense for pryntinge of a ballett intituled
                                 <title>a Warnynge to Englonde <del>to</del>herein to aduaunce by
@@ -13711,7 +13713,7 @@
             </fw>
                 <div type="fines">
                     <head rend="blackletter"> 
-                  <hi rend="large">ffor Takynge of fynes<lb/> for
+                  <hi rend="large">For Takynge of fynes<lb/> for
                         copyes</hi> 
                   <lb/> 
                   <hi rend="medium">as foloweth</hi> 
@@ -18898,7 +18900,7 @@
                      </persName> for
                                 his lycense for pryntinge of <title>an almanacke and
                                 pronostication of <persName role="non-stationer"> 
-                        <forename>Ffraunces</forename>
+                        <forename>Fraunces</forename>
                                 <surname>Coxe</surname> 
                      </persName> 
                      for the
@@ -19607,7 +19609,7 @@
                      </persName> for
                                 his lycense for pryntinge of a <title>an almanacke
                                 and a pronostication of <persName role="non-stationer"> 
-                        <forename>ffraunces</forename>
+                        <forename>Fraunces</forename>
                                 <surname>Coxe</surname> 
                      </persName></title>
                                
@@ -26859,7 +26861,7 @@
                </head>
                     
                         <p>Recevyd of <persName role="stationer enterer">
-                            <forename>ffraunces</forename> 
+                            <forename>Fraunces</forename> 
                      <surname>Coldoke</surname> 
                   </persName>
                             for his lycense for prynting of a ballett intituled <title>greate thankes to the Wellcome home in 
@@ -30687,7 +30689,7 @@
                             consente of all the Reformed churches beyonde the seas Towchynge all
                             matters of Religion with a<supplied resp="#arber">n</supplied> ex<supplied resp="#arber">h</supplied>ortation of
                             <persName role="non-stationer">master <surname>Beza</surname> 
-                  </persName> to the nobelite of <placeName type="pla">ffraunce</placeName> for the Setting forth of the gospell</title> 
+                  </persName> to the nobelite of <placeName type="pla">Fraunce</placeName> for the Setting forth of the gospell</title> 
                            
                   <seg type="fee" rend="roman-numerals aligned-right"><!--processing: vjd-->
                      <num type="totalPence" value="6"><!--orig: vjd-->
@@ -31173,7 +31175,7 @@
                </head>
                     
                         <p>Recevyd of <persName role="stationer enterer">
-                            <forename>ffraunces</forename> 
+                            <forename>Fraunces</forename> 
                      <surname>Coldoke</surname> 
                   </persName>
                             for his lycense for pryntinge of a boke intituled <title>a new Revinge for an olde grudge by <persName role="stationer"> 
@@ -32666,7 +32668,7 @@
                             of <persName role="non-stationer">
                             <forename>Cupyde</forename> 
                   </persName> by <persName role="non-stationer">master 
-                     <surname>ffayre</surname>
+                     <surname>Fayre</surname>
                             </persName></title> 
                            
                   <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
@@ -35704,7 +35706,7 @@
                             lycense for pryntinge of a ballet intituled <title>a
                             Dowlefull Dettye of one 
                   <persName role="non-stationer"> 
-                     <forename>ffraunces</forename>
+                     <forename>Fraunces</forename>
                             <surname>Carre</surname> 
                   </persName></title>
                            
@@ -37138,7 +37140,7 @@
                         <p>Recevyd of <persName role="stationer enterer">master
                             <surname>Seres</surname> 
                   </persName> for his lycense for pryntinge of
-                            <title>a proclamation articles with ye edict in <placeName type="pla">ffraunce</placeName> the 
+                            <title>a proclamation articles with ye edict in <placeName type="pla">Fraunce</placeName> the 
                   <date when="1567-03-04"> 
                      <hi rend="italics">iiij<hi rend="superscript">th</hi> Daye of marche</hi> anno 1567</date></title>
                            
@@ -37591,7 +37593,7 @@
                </head>
                     
                         <p>Recevyd of <persName role="stationer enterer">
-                            <forename>ffraunces</forename> 
+                            <forename>Fraunces</forename> 
                      <surname>Coldoke</surname> 
                   </persName>
                             for his lycense for the pryntinge of a boke intituled <title>the brefe Dyscource of
@@ -38857,7 +38859,7 @@
                      </persName>
                                 for his lycense for pryntinge of a boke intituled <title>how the <persName role="non-stationer">Cardenall of
                        Lowryn</persName> <note type="editorial" resp="#arber"><persName role="non-stationer">LORRAINE</persName></note> 
-                     hyndered the peace in <placeName type="pla">ffraunce</placeName> &amp;c</title> 
+                     hyndered the peace in <placeName type="pla">Fraunce</placeName> &amp;c</title> 
                                
                      <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
                         <num type="totalPence" value="4"><!--orig: iiijd-->
@@ -40874,7 +40876,7 @@
                                 <forename>lucas</forename> 
                         <surname>haryson</surname> 
                      </persName>
-                                for his lycense for pryntinge of a boke intituled <title>a Dyscourse of thynges happened in <placeName type="pla">ffraunce</placeName></title>
+                                for his lycense for pryntinge of a boke intituled <title>a Dyscourse of thynges happened in <placeName type="pla">Fraunce</placeName></title>
                                 
                                <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
                         <num type="totalPence" value="4"><!--orig: iiijd-->
@@ -42334,7 +42336,7 @@
                   </head>
                         
                             <p>Recevyd of <persName role="stationer enterer">
-                                <forename>ffraunces</forename> 
+                                <forename>Fraunces</forename> 
                         <surname>coldoke</surname>
                                 </persName> for his lycense for pryntinge of a boke intituled <title>the ende of the <num type="notMatched" value="0" rend="roman-numerals">x<hi rend="superscript">th</hi> 
                         </num> boke of 
@@ -42547,7 +42549,7 @@
                         <surname>alde</surname> 
                      </persName> for
                                 his lycense for pryntinge of a boke intituled <title> 
-                     <persName role="non-stationer">ffreer 
+                     <persName role="non-stationer">Freer 
                         <surname>Russhe</surname></persName></title>
                     
                      <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
@@ -42678,7 +42680,7 @@
                                 <forename>John</forename> 
                         <surname>alde</surname> 
                      </persName> for
-                                his lycense for pryntinge of a boke intituled <title>ffrynshe englesshe and Duche
+                                his lycense for pryntinge of a boke intituled <title>Frynshe englesshe and Duche
                      <note type="editorial" resp="#arber">i.e.German</note></title>
                                
                                 <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
@@ -45885,13 +45887,13 @@
                 <div type="entry" xml:id="SRO1053">
                     <head rend="left"> 
                   <persName role="stationer enterer">
-                        <surname>ffayreberne</surname> 
+                        <surname>Fayreberne</surname> 
                   </persName> 
                </head>
                     
                         <p>Recevyd of <persName role="stationer enterer">
                             <forename>John</forename> 
-                     <surname>ffayreberne</surname> 
+                     <surname>Fayreberne</surname> 
                   </persName> for
                             his lycense for pryntinge of a ballett intituled <title>Rebelles not fearynge <persName role="non-stationer">god</persName>
                                oughte therfore to fele the Rodde</title>
@@ -46677,7 +46679,7 @@
                      <surname>norton</surname> 
                   </persName> for
                             his lycense for prynting of a boke intituled 
-                           <title><persName><forename>ffraunces</forename><surname><choice><sic>Spiro</sic><corr>Spero</corr></choice></surname></persName>
+                           <title><persName><forename>Fraunces</forename><surname><choice><sic>Spiro</sic><corr>Spero</corr></choice></surname></persName>
                            &amp;c an notable and marvelus epistle of the famous
                              <persName role="non-stationer">Doctour
                             <forename>matthewe</forename> 
@@ -47851,7 +47853,7 @@
                 <div type="entry" xml:id="SRO1106">
                     <head rend="left"> 
                   <persName role="stationer enterer">
-                        <surname>ffrynshe</surname> 
+                        <surname>Frynshe</surname> 
                   </persName> 
                </head>
                     
@@ -49131,7 +49133,7 @@
                 <div type="entry" xml:id="SRO1138">
                     <head rend="left"> 
                   <persName role="stationer enterer">
-                        <surname>ffrynshe</surname> 
+                        <surname>Frynshe</surname> 
                   </persName> 
                </head>
                     
@@ -49162,7 +49164,7 @@
                 <div type="entry" xml:id="SRO1139">
                     <head rend="left"> 
                   <persName role="stationer enterer">
-                        <surname>ffrynshe</surname> 
+                        <surname>Frynshe</surname> 
                   </persName> 
                </head>
                     
@@ -53194,7 +53196,7 @@
                      <surname>awdelay</surname> 
                   </persName> for his
                             lycense for pryntinge of <title>an Epytaphe <supplied resp="#arber">of</supplied> <persName role="non-stationer">master 
-                        <forename>ffraunces</forename>
+                        <forename>Fraunces</forename>
                             <surname>benyson</surname> 
                      </persName> 
                   </title> 
