@@ -6,7 +6,7 @@
     <teiHeader>
    <fileDesc>
          <titleStmt>
-            <title>Volume A of the copy entries in the Stationers' Register [1557 - 1570]</title>
+            <title>Copy entries in Stationers' Company Register A, 9 December 1554 to 2 August 1596</title>
             <principal>
                <persName xml:id="GB">Giles Bergel</persName>
                <orgName>University of Oxford</orgName>
@@ -24,29 +24,26 @@
                <orgName notBefore="2017-09">Newcastle University</orgName>
             </respStmt>
             <respStmt>
-               <resp>Volume Editor (Volumes A and C)</resp>
+               <resp>Volume Editor</resp>
                <persName xml:id="EM">Eleanor Warmington</persName>
             </respStmt>
-            <respStmt>
-               <resp>Volume Editor (Volume B)</resp>
-               <persName xml:id="EB">Emma Bashforth</persName>
-            </respStmt>
+           
             <respStmt>
                <resp>Proofreading and Transcription Guidelines (Phase 1)</resp>
                <persName>Pip Willcox</persName>
                <orgName>Bodleian Library, University of Oxford</orgName>
             </respStmt>
             <respStmt>
-               <resp>Transcript of Arber (Phase One)</resp>
+               <resp>Transcription of Arber (Phase One)</resp>
                <orgName>Invida Solutions Pvt. Ltd.</orgName>
             </respStmt>
             <funder> Phase One (Arber) - University of Oxford JPR Lyell Fund</funder>
-            <funder> Phase Two (Correction and enrichment) CREATe, University of Glasgow (create.ac.uk); the Bibliographical Society; Bath Spa University</funder>
+            <funder> Phase Two (Correction and enrichment) CREATe, University of Glasgow; the Bibliographical Society; Bath Spa University</funder>
           </titleStmt>
           <publicationStmt>
             <publisher>Stationers' Register Online <ref target="http://www.stationersregister.online">http://www.stationersregister.online</ref></publisher>
-            <publisher>The Bibliographic Society <ref target="http://www.bibsoc.org.uk/">http://www.bibsoc.org.uk/</ref></publisher>
-            <distributor>CREATe, University of Glasgow <ref target="http://www.create.ac.uk/">http://www.create.ac.uk</ref></distributor>
+            <publisher>The Bibliographical Society <ref target="http://www.bibsoc.org.uk/">http://www.bibsoc.org.uk/</ref></publisher>
+            <publisher>CREATe, University of Glasgow <ref target="http://www.create.ac.uk/">http://www.create.ac.uk</ref></publisher>
             <date when="2017-09-01">1 September 2017</date>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</licence>
@@ -56,13 +53,13 @@
             <idno type="Arber">1</idno>
          </publicationStmt>
          <sourceDesc>
-            <bibl><title>The Stationers' Register A</title></bibl>
+            <bibl><title>Stationers' Company Register A</title></bibl>
             <bibl>
-               Transcriptions and encodings made from an electronic facsmile of
+               Transcriptions and encodings are jointly derived from an electronic facsmile of
                Arber, <editor>Edward, A</editor> <title>Transcript of the Registers of the Company of Stationers 1554-1640
-               AD</title>, 5 vols, (London: Priv. Print,; <date>1875-77</date>, &amp; Birmingham, <date>1875-94</date>), Butler
+                  AD</title>, 5 vols, (London: Priv. Print,; <date>1875-77</date>, &amp; Birmingham, <date>1875-94</date>), Volume 1, copy at Butler
                Library, Columbia University in the City of New York, R015.42 L8a
-               <ref target="http://clio.cul.columbia.edu:7018/vwebv/holdingsInfo?bibId=6177070">http://clio.cul.columbia.edu:7018/vwebv/holdingsInfo?bibId=6177070</ref>
+               <ref target="http://clio.cul.columbia.edu:7018/vwebv/holdingsInfo?bibId=6177070">http://clio.cul.columbia.edu:7018/vwebv/holdingsInfo?bibId=6177070</ref>, and digital images of <bibl><title>The Stationers' Company Register A,</title> with editorial notes.</bibl>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -67957,8 +67954,8 @@
                     
                     <p rend="centred"> 
                   <persName role="stationer">
-                        <forename>Marshe</forename> 
-                     <surname>lxix</surname> 
+                        <surname>Marshe</surname> 
+                     lxix 
                   </persName> copies <del>1.19.11</del> 2.3.7</p>
                    
                   <note resp="#arber">Arber: ? What is the connection of
