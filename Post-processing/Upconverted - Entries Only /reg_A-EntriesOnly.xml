@@ -59,7 +59,7 @@
                Arber, <editor>Edward, A</editor> <title>Transcript of the Registers of the Company of Stationers 1554-1640
                   AD</title>, 5 vols, (London: Priv. Print,; <date>1875-77</date>, &amp; Birmingham, <date>1875-94</date>), Volume 1, copy at Butler
                Library, Columbia University in the City of New York, R015.42 L8a
-               <ref target="http://clio.cul.columbia.edu:7018/vwebv/holdingsInfo?bibId=6177070">http://clio.cul.columbia.edu:7018/vwebv/holdingsInfo?bibId=6177070</ref>, and digital images of <bibl><title>The Stationers' Company Register A,</title> with editorial notes.</bibl>
+               <ref target="http://clio.cul.columbia.edu:7018/vwebv/holdingsInfo?bibId=6177070">http://clio.cul.columbia.edu:7018/vwebv/holdingsInfo?bibId=6177070</ref>, and digital images of <bibl><title>The Stationers' Company Register A,</title>, Stationers' Company archives Ref no: TSC/1/D/02/01</bibl>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -72,6 +72,7 @@
          </projectDesc>
       </encodingDesc>
        <revisionDesc>
+          <change when="2017-08-21" who="#GB">persName emendations</change> 
 	  <change when="2017-08-21" who="#JC">Post-processing up-conversion</change> 
           <change when="2017-06-26">GB amend re Blayney comments</change>
           <change when="2017-06-26">GB clean up ffs</change>
@@ -7476,7 +7477,7 @@
                      his lycense for pryntinge of <num type="matchedNumber" value="2" rend="roman-numerals">ij</num> bokes
                      one of <title>
                      <persName role="non-stationer">
-                        <forename>Cranmer</forename> 
+                        <surname>Cranmer</surname> 
                         <surname>Redle<supplied resp="#arber">y</supplied>
                         </surname> 
                      </persName> 
@@ -13620,10 +13621,8 @@
                           </persName> in <title>Old Ballads</title>, <hi rend="italics">p</hi>. 45,
                           <date when="1840"> 
                              <hi rend="italics">Ed</hi>. 1840</date> ; from a
-                          copy now in <persName role="non-stationer">Mr <forename>
-                           <hi rend="smallcaps">Christie</hi>
-                        </forename>
-                        <surname>Miller</surname>
+                          copy now in <persName role="non-stationer">Mr <surname>
+                           <hi rend="smallcaps">Christie-Miller</hi></surname>
                      </persName>’s
                           Collection at <placeName type="pla">Britwell</placeName>.
                        </note> 
@@ -34471,7 +34470,7 @@
                             his lycense for prynting of <title>an history of meke and
                             
                   <persName role="non-stationer">paycent
-                            <surname>gresell</surname> 
+                            <forename>gresell</forename> 
                      </persName>
                   </title>
                            
@@ -63949,7 +63948,7 @@
                            <hi rend="bold">Griffith</hi>
                         </surname>
                      </persName>'s Colophon is dated
-                            1570. It is reprinted by <persName>Mr<surname>
+                            1570. It is reprinted by <persName>Mr <surname>
                            <hi rend="smallcaps">Huth</hi>
                         </surname>
                      </persName> in <title>Ancient Ballads and Broadsides</title>, 
@@ -65994,7 +65993,7 @@
                   </persName> for his
                             lycense for pryntinge of <title>the iijde
                             orations of <persName role="non-stationer">
-                            <surname>d<supplied resp="#arber">E</supplied>mosthenes</surname> 
+                            <surname>d<supplied resp="#arber">e</supplied>mosthenes</surname> 
                      </persName>
                   </title>
                            
@@ -67955,8 +67954,8 @@
                     <p rend="centred"> 
                   <persName role="stationer">
                         <surname>Marshe</surname> 
-                     lxix 
-                  </persName> copies <del>1.19.11</del> 2.3.7</p>
+                     
+                  </persName> lxix copies <del>1.19.11</del> 2.3.7</p>
                    
                   <note resp="#arber">Arber: ? What is the connection of
                         <persName role="stationer"> 
