@@ -72,6 +72,7 @@
          </projectDesc>
       </encodingDesc>
        <revisionDesc>
+          <change when="2017-9-25" who="#GB">various attribute emendations</change>
           <change when="2017-08-21" who="#GB">persName emendations</change> 
 	  <change when="2017-08-21" who="#JC">Post-processing up-conversion</change> 
           <change when="2017-06-26">GB amend re Blayney comments</change>
@@ -7692,7 +7693,7 @@
                       <note resp="#arber">Arber: Written by <persName role="non-stationer"> 
                          <forename>John</forename>
                          <surname>Barker</surname> 
-                      </persName>. <persName>
+                      </persName>. <persName role="stationer">
                         <surname>Lant</surname>
                      </persName>’s impression, which is
                          without date, is reprinted by <persName role="non-stationer">Mr
@@ -9795,7 +9796,7 @@
                              
                              
                              <note type="editorial" resp="#register">  
-                           <persName>
+                           <persName role="stationer enterer">
                               <surname>
                                  <hi rend="bold">Aldee</hi>
                               </surname>
@@ -10663,7 +10664,7 @@
                         </persName>
                                     for his lycense for pryntinge of <title>an
                                     admonition
-                                    to <persName>
+                                    to <persName role="non-stationer">
                               <surname>Elderton</surname>
                            </persName>
                         to leave the Toyes by hym begonne&amp;c</title> / 
@@ -11015,7 +11016,7 @@
                                 1562</date>. It was written by <persName>
                            <forename>W</forename>.<surname>F</surname>
                         </persName>. 
-                             and printed by <persName>
+                             and printed by <persName role="stationer">
                            <surname>
                               <hi rend="bold">Alde</hi>
                            </surname>
@@ -11347,7 +11348,7 @@
                              <surname>alde</surname> 
                           </persName>
                              for his lycense for pryntinge of a ballett intituled
-                             <title>an admonition to <persName>
+                             <title>an admonition to <persName role="non-stationer">
                               <surname>elderton</surname>
                            </persName> to leave the toyes by hym begonne</title> 
                              <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
@@ -11531,7 +11532,7 @@
                         <surname>hallay</surname> 
                      </persName>
                                 for his lycense for pryntinge of a ballett intituled <title>
-                        <persName>Elderton</persName>s
+                        <persName role="non-stationer">Elderton</persName>s
                                 parratt answered &amp; c</title> 
                      <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
                         <num type="totalPence" value="4"><!--orig: iiijd-->
@@ -12858,7 +12859,7 @@
                </div>
          <div type="entry" xml:id="SRO154">
                         <head rend="left"> 
-                     <persName role="stationer enterer">
+                     <persName role="non-stationer enterer">
                             <forename>John</forename> 
                         <surname>charlewod</surname> 
                      </persName> 
@@ -13806,7 +13807,7 @@
                      </persName> 
                   </head>
                         
-                            <p>Recevyd of <persName>
+                            <p>Recevyd of <persName role="stationer">
                         <surname>
                            <hi rend="bold">shyngleton</hi>
                         </surname>
@@ -17112,13 +17113,13 @@
                   </div>
          <div type="entry" xml:id="SRO235">
                             <head rend="left"> 
-                        <persName role="stationer enterer">
+                        <persName role="non-stationer enterer">
                                 <forename>J</forename> 
                            <surname>charlewod</surname> 
                         </persName> 
                      </head>
                             
-                                <p>Recevyd of <persName role="stationer enterer">
+                                <p>Recevyd of <persName role="non-stationer enterer">
                                     <forename>John</forename> 
                            <surname>Charlewod</surname>
                                     </persName> for his lycense for pryntinge of a ballett intituled
@@ -17367,13 +17368,13 @@
             </div>
          <div type="entry" xml:id="SRO240">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <forename>J</forename> 
                      <surname>Charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+                        <p>Recevyd of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>Charlewod</surname> 
                   </persName> for
@@ -19866,13 +19867,13 @@
                </div>
          <div type="entry" xml:id="SRO276">
                         <head rend="left"> 
-                     <persName role="stationer enterer">
+                     <persName role="non-stationer enterer">
                             <forename>John</forename> 
                         <surname>charlewod</surname> 
                      </persName> 
                   </head>
                         
-                            <p>Recevyd of <persName role="stationer enterer">
+                            <p>Recevyd of <persName role="non-stationer enterer">
                                 <forename>John</forename> 
                         <surname>cherlewod</surname> 
                      </persName>
@@ -25680,13 +25681,13 @@
             </div>
          <div type="entry" xml:id="SRO368">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <forename>J</forename> 
                      <surname>charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Receved of <persName role="stationer enterer">
+                        <p>Receved of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>charlewod</surname> 
                   </persName> for
@@ -26119,13 +26120,13 @@
             </div>
          <div type="entry" xml:id="SRO377">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <forename>J</forename> 
                      <surname>charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Receaved of <persName role="stationer enterer">
+                        <p>Receaved of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>charlewod</surname> 
                   </persName> for
@@ -29561,13 +29562,13 @@
             </div>
          <div type="entry" xml:id="SRO449">
                     <head rend="left"> 
-                  <persName role="stationer">
+                  <persName role="stationer enterer">
                         <forename>T</forename> 
                      <surname>colwell</surname> 
                   </persName> 
                </head>
                     
-                        <p>Receved of <persName role="stationer">
+                        <p>Receved of <persName role="stationer enterer">
                             <forename>thomas</forename> 
                      <surname>Colwell</surname> 
                   </persName> for
@@ -33127,7 +33128,7 @@
                    
                   <p>
                   <note resp="#arber">Arber: ? Can this have any reference to the second of the
-                            two works licensed to <persName>
+                            two works licensed to <persName role="non-stationer">
                         <surname>
                            <hi rend="smallcaps">Scerle</hi>
                         </surname>
@@ -33458,7 +33459,7 @@
                   </seg> 
                         </p>
                   <p>
-                  <note resp="#arber">Arber: The third poem on <persName>
+                  <note resp="#arber">Arber: The third poem on <persName role="stationer">
                         <surname>Lacy</surname>
                      </persName>’s broadside, referred to at
                             <hi rend="italics">p</hi>. 313, is entitled <title>of
@@ -34799,12 +34800,12 @@
             </div>
          <div type="entry" xml:id="SRO558">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <surname>Charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+                        <p>Recevyd of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>Charlewod</surname> 
                   </persName> for
@@ -34844,12 +34845,12 @@
             </div>
          <div type="entry" xml:id="SRO559">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <surname>charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+                        <p>Recevyd of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>charlewod</surname> 
                   </persName> for
@@ -35022,12 +35023,12 @@
             </div>
          <div type="entry" xml:id="SRO563">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <surname>charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+                        <p>Recevyd of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>charlewod</surname> 
                   </persName> for
@@ -39655,12 +39656,12 @@
             </div>
          <div type="entry" xml:id="SRO661">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <surname>charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+                        <p>Recevyd of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>charlewod</surname> 
                   </persName> for
@@ -39701,12 +39702,12 @@
             </div>
          <div type="entry" xml:id="SRO662">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <surname>charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+                        <p>Recevyd of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>charlewod</surname> 
                   </persName> for
@@ -40150,7 +40151,7 @@
                      </persName>./</note>
                </head>
                     
-                        <p>Recevyd of <persName role="stationer">
+                        <p>Recevyd of <persName role="stationer enterer">
                             <forename>leonerde</forename> 
                      <surname>maylarde</surname> 
                   </persName>
@@ -48354,7 +48355,7 @@
          <div type="entry" xml:id="SRO848">
                         <head rend="left"> 
                      <del>
-                        <persName>
+                        <persName role="stationer enterer">
                            <surname>Colwell</surname>
                         </persName>
                      </del>
@@ -55447,12 +55448,12 @@
             </div>
          <div type="entry" xml:id="SRO1001">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <surname>charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+                        <p>Recevyd of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>charlewod</surname> 
                   </persName> for
@@ -56554,12 +56555,12 @@
             </div>
          <div type="entry" xml:id="SRO1025">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <surname>charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+                        <p>Recevyd of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>charlewod</surname> 
                   </persName> for
@@ -56601,12 +56602,12 @@
             </div>
          <div type="entry" xml:id="SRO1026">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <surname>charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+                        <p>Recevyd of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>charlewod</surname> 
                   </persName> for
@@ -56644,12 +56645,12 @@
             </div>
          <div type="entry" xml:id="SRO1027">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <surname>charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+                        <p>Recevyd of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>charlewod</surname> 
                   </persName> for
@@ -56703,7 +56704,7 @@
                      <surname>purfoote</surname> 
                   </persName> for
                             his lycense for the pryntinge of a ballett intituled <title>north<supplied resp="#arber">um</supplied>berlandes newes</title>
-                            by <persName role="unknown"> 
+                            by <persName role="non-stationer"> 
                      <surname>elderton</surname> 
                   </persName>
                             <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
@@ -56716,7 +56717,7 @@
                    
                    
                   <p>
-                  <note resp="#arber">Arber: The title of this ballad, written by <persName role="unknown"> 
+                  <note resp="#arber">Arber: The title of this ballad, written by <persName role="non-stationer"> 
                         <forename>W</forename>. 
                         <surname>E<supplied resp="#arber">lderton</supplied> 
                         </surname> 
@@ -56760,12 +56761,12 @@
             </div>
          <div type="entry" xml:id="SRO1029">
                     <head rend="left"> 
-                  <persName role="stationer enterer">
+                  <persName role="non-stationer enterer">
                         <surname>charlewod</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+                        <p>Recevyd of <persName role="non-stationer enterer">
                             <forename>John</forename> 
                      <surname>charlewod</surname> 
                   </persName> for
@@ -59356,13 +59357,13 @@
             </div>
          <div type="entry" xml:id="SRO1085">
                     <head rend="left"> 
-                  <persName role="stationer">
+                  <persName role="stationer enterer">
                         <forename>w</forename> 
                      <surname>pekerynge</surname> 
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer">
+                        <p>Recevyd of <persName role="stationer enterer">
                             <forename>Wylliam</forename> 
                      <surname>pekerynge</surname> 
                   </persName>
@@ -59622,7 +59623,7 @@
             </div>
          <div type="entry" xml:id="SRO1091">
                     <head rend="left"> 
-                  <persName>
+                  <persName role=" stationer enterer">
                      <surname>
                         <del>arnolde</del>
                      </surname>
@@ -65836,7 +65837,7 @@
             </div>
          <div type="entry" xml:id="SRO1220">
                     <head rend="left"> 
-                  <persName role="stationer">
+                  <persName role="stationer enterer">
                         <surname>awdelay</surname> 
                   </persName> 
                </head>
@@ -65942,7 +65943,7 @@
                   </persName> for his
                             lycense for pryntinge of a boke <title>a brefe pleasaunt
                             Treates Called naturall and artificiall conclusions</title> which was
-                            <persName>
+                            <persName role="stationer">
                      <surname>
                         <hi rend="bold">Cowplande</hi>
                      </surname>
@@ -67255,7 +67256,7 @@
             </div>
          <div type="entry" xml:id="SRO1250">
                     <head rend="left"> 
-                  <persName role="stationer">
+                  <persName role="stationer enterer">
                         <forename>T</forename> 
                      <surname>marshe</surname> 
                   </persName> 
