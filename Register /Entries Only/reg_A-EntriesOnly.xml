@@ -72,7 +72,8 @@
          </projectDesc>
       </encodingDesc>
        <revisionDesc>
-          <change when="2017-9-25" who="#GB">various attribute emendations</change>
+          <change when="2017-09-26" who="#GB">various attribute emendations</change>
+          <change when="2017-09-25" who="#GB">various attribute emendations</change>
           <change when="2017-08-21" who="#GB">persName emendations</change> 
 	  <change when="2017-08-21" who="#JC">Post-processing up-conversion</change> 
           <change when="2017-06-26">GB amend re Blayney comments</change>
@@ -3660,7 +3661,7 @@
                      four entries <note rend="italics" type="editorial" resp="#EW">i.e. SRO40b; SRO40c; SRO40d; SRO40e; SRO40f </note> are between the <date when="--03-04">4<hi rend="superscript">th</hi> March</date> and the <date when="1560-05-04">4<hi rend="superscript">th</hi> May 1560</date> inclusive.
                   </note> 
                   <note type="editorial" resp="#EW">date span inferred from preceding dated entry and subsequent dated entry</note>
-                  
+            
                   <ab type="metadata">
                   <num type="totalEntryPence" value="4"/>
                   <date notBefore="1560-03-04" notAfter="1560-05-04">4 March 1560 - 4 May 1560</date>
@@ -10526,7 +10527,7 @@
                               <persName>
                            <forename>W</forename>&gt;<surname>F</surname>
                         </persName>. wrote <title>A new Ballad against
-                                 Unthrifts</title>, printed by <persName>
+                                 Unthrifts</title>, printed by <persName role="stationer">
                            <surname>
                               <hi rend="bold">Alde</hi>
                            </surname>
