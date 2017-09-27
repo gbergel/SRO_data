@@ -1895,7 +1895,7 @@
                <idno type="ArberRef">I. 95</idno>
                <idno type="RegisterID">TSC-1-D-02-01_1554-1596_0092_f32r</idno>
                <num type="works" value="1"/>
-               <note type="status" subtype="unknown"/>
+               <note type="status" subtype="entered"/>
                <persName role="warden">
                   <forename>J.</forename>
                   <surname>Jaques</surname>
@@ -9263,7 +9263,7 @@
                      <idno type="ArberRef">I. 177</idno>
                      <idno type="RegisterID">TSC-1-D-02-01_1554-1596_0174_f73r</idno>
                      <num type="works" value="1"/>
-                     <note type="status" subtype="unknown"/>
+                     <note type="status" subtype="entered"/>
                      <persName role="warden">
                         <forename>R.</forename>
                         <surname>Tottle</surname>
@@ -11696,7 +11696,7 @@
                      <idno type="ArberRef">I. 199</idno>
                      <idno type="RegisterID">TSC-1-D-02-01_1554-1596_0196_f84r</idno>
                      <num type="works" value="1"/>
-                     <note type="status" subtype="unknown"/>
+                     <note type="status" subtype="entered"/>
                      <persName role="warden">
                         <forename>J.</forename>
                         <surname>Judson</surname>
@@ -25052,7 +25052,7 @@
                      <idno type="ArberRef">I. 266</idno>
                      <idno type="RegisterID">TSC-1-D-02-01_1554-1596_0263_f117v</idno>
                      <num type="works" value="1"/>
-                     <note type="status" subtype="unknown"/>
+                     <note type="status" subtype="entered"/>
                      <persName role="warden">
                         <forename>J.</forename>
                         <surname>Day</surname>
@@ -26973,7 +26973,7 @@
                   <idno type="ArberRef">I. 272</idno>
                   <idno type="RegisterID">TSC-1-D-02-01_1554-1596_0269_f120v</idno>
                   <num type="works" value="1"/>
-                  <note type="status" subtype="unknown"/>
+                  <note type="status" subtype="entered"/>
                   <persName role="warden">
                      <forename>J.</forename>
                      <surname>Day</surname>
