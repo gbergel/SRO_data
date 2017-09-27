@@ -20658,8 +20658,8 @@
                         
                             <p>Recevyd of <persName role="non-stationer enterer">
                                 <forename>
-                        <sic>Rychand</sic>
-                        <corr>Rychard</corr>
+                        <choice><sic>Rychand</sic>
+                        <corr>Rychard</corr></choice>
                      </forename> 
                         <surname>serlle</surname> 
                      </persName>
@@ -52953,8 +52953,8 @@
                                <title>
                         <persName role="non-stationer">
                            <surname>
-                              <sic>Howlett</sic>
-                              <corr>Hewlett</corr>
+                              <choice><sic>Howlett</sic>
+                              <corr>Hewlett</corr></choice>
                            </surname>
                         </persName>es        
                      Dyxcionary</title> which he bought
@@ -63591,7 +63591,7 @@
                   <seg type="fee" rend="roman-numerals aligned-right">
                      <num type="totalPence" value="40">
                         <num type="shillingsAsPence" value="36">
-                           <corr>iij</corr>
+                           iij
                            <hi rend="superscript">s</hi> 
                         </num> 
                         <num type="pence" value="4">iiij<hi rend="superscript">d</hi> 
