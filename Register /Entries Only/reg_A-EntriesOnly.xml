@@ -63591,7 +63591,7 @@
                   <seg type="fee" rend="roman-numerals aligned-right">
                      <num type="totalPence" value="40">
                         <num type="shillingsAsPence" value="36">
-                           iij
+                           <corr>iij</corr>
                            <hi rend="superscript">s</hi> 
                         </num> 
                         <num type="pence" value="4">iiij<hi rend="superscript">d</hi> 
