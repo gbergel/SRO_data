@@ -36494,6 +36494,7 @@
                         </num> 
                      </num> 
                   </seg> 
+                           <note type="editorial" resp="#EW">the name given in the margin differs from that of the purchaser of the copy</note>
                </p>
                    <p/>
                     
@@ -36503,7 +36504,6 @@
                <date type="SortDate" when="1565-07-22"/>
                <date type="Register" notBefore="1565-07-22" notAfter="1566-07-22">22 July 1565 - 22 July 1566</date>
                   <num type="totalEntryPence" value="16"/>
-                  <note type="editorial" resp="#EW">the name given in the margin differs from that of the purchaser of the copy</note>
                   
                   <idno type="RegisterRef">Register A, f.138v</idno>
                   <idno type="ArberRef">I. 308</idno>
