@@ -69934,13 +69934,13 @@
                   </persName> 
                </head>
                     
-                        <p>Recevyd of <persName role="stationer enterer">
+            <p rend="struck-through">Recevyd of <persName role="stationer enterer">
                             <forename>Thomas</forename> 
                      <surname>hackett</surname> 
                   </persName> for
-                            his lycense for pryntinge of a boke intituled <title>serten verses &amp;c</title> 
+               his lycense for pryntinge of a boke intituled <title>serten verses &amp;c</title></p>
                   <note resp="#arber">Arber: no sum stated</note>
-               </p>
+               
                     
                 <ab type="metadata">
                <idno type="Liber">A</idno>
@@ -69953,7 +69953,6 @@
                   <idno type="ArberRef">I. 437</idno>
                   <idno type="RegisterID">TSC-1-D-02-01_1554-1596_0434_f203r</idno>
                   <num type="works" value="1"/>
-                  <note type="status" subtype="incomplete"/>
                   <note type="status" subtype="cancelled"/>
                   <persName role="warden">
                      <forename>J.</forename>
