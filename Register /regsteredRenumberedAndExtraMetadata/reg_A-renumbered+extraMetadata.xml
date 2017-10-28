@@ -10673,7 +10673,7 @@
                              
                              
                              
-                             <note type="editorial">  
+                             <note type="register">  
                            <persName role="stationer enterer">
                               <surname>
                                  <hi rend="bold">Aldee</hi>
@@ -43341,7 +43341,7 @@
                         <surname>Maylarde</surname> 
                   </persName> 
                   <note resp="#arber">Arber: *</note> 
-                  <note type="editorial">gave it to <persName role="stationer"> 
+                  <note type="register">gave it to <persName role="stationer"> 
                         <forename>Anstin</forename>
                         <surname>Lawghton</surname> 
                      </persName> and <persName role="stationer"> 
@@ -49270,7 +49270,7 @@
                   <persName role="stationer enterer">
                         <surname>marshe</surname> 
                   </persName> 
-                  <note type="editorial">
+                  <note type="register">
                      <hi rend="italics">ultimo marcij</hi>
                         <date when="1573">1573</date> Chaunged with <persName role="stationer"> 
                         <forename>H:</forename> 
