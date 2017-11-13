@@ -1257,7 +1257,7 @@
                   <p>To <persName role="stationer enterer"> 
                      <forename>John</forename>
                      <surname>Daye</surname> 
-                  </persName> to prynte this boke Called <title>the pommender of prayers with the adicyons Drawen out <supplied resp="#EW">[of]</supplied>
+                  </persName> to prynte this boke Called <title>the pommender of prayers with the adicyons Drawen out <supplied resp="#EW">[of] </supplied>
                      <persName role="non-stationer">saynt
                         <forename>augustine</forename>
                      </persName>
@@ -1341,7 +1341,7 @@
                   <p>To <persName role="stationer enterer">master
                      <surname>wallye</surname> 
                   </persName> to prynte this boke Called <title>the cronacle of yeres in <num type="matchedNumber" value="16" rend="roman-numerals">xvj</num> 
-                     <supplied resp="#arber">[mo]</supplied>
+                     <supplied resp="#arber"> [mo]</supplied>
                   </title> and for
                      his lycense he geveth to the howse <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
                         <num type="totalPence" value="4"><!--orig: iiijd-->
@@ -1890,7 +1890,7 @@
                      <forename>mistress</forename>
                         <surname>Toye</surname> 
                   </persName> had lycense to prynte <title>Cathechisme</title>
-                  <supplied resp="#arber">[in]</supplied> laten <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
+                  <supplied resp="#arber"> [in]</supplied> laten <seg type="fee" rend="roman-numerals aligned-right"><!--processing: iiijd-->
                      <num type="totalPence" value="4"><!--orig: iiijd-->
                         <num type="pence" value="4">iiij<hi rend="superscript">d</hi> 
                         </num> 
@@ -6040,14 +6040,14 @@
                   </persName> for
                      his Lycense for pryntinge <title>
                      <num type="matchedNumber" value="2" rend="roman-numerals">ij</num> 
-                     <hi rend="italics">almanackes &amp; pronostication</hi> of <persName>
+                     <hi rend="italics"> almanackes &amp; pronostication</hi> of <persName>
                         <surname>
                            waghens
                         </surname>
                      </persName>
                   </title>
                      <supplied resp="#arber">[?<persName role="non-stationer">
-                     <surname>Vaughan</surname>
+                     <surname> Vaughan</surname>
                   </persName>’s]</supplied> 
                      <seg type="Fee" rend="roman-numerals aligned-right"><!--processing: viijd-->
                         <num type="totalPence" value="8"><!--orig: viijd-->
@@ -6331,7 +6331,7 @@
                      <hi rend="italics">agaynste
                             covetous</hi>
                   </title> 
-                       <supplied resp="#arber">[?]</supplied> the <date when="1560-10-30">xxx
+                       <supplied resp="#arber"> [?]</supplied> the <date when="1560-10-30">xxx
                             of octobre <note resp="#arber">Arber: ? November</note> 
                      <supplied resp="#arber">[1560]</supplied> 
                         </date> 
@@ -6592,7 +6592,7 @@
                         <surname>Sutton</surname> 
                     </persName> for his
                         lycense for pryntinge of <title>
-                     <supplied resp="#arber">[an]</supplied>
+                     <supplied resp="#arber">[an] </supplied>
                         <hi rend="italics">almanacke and
                             pronostication</hi> of <hi rend="smallcaps">fulkes</hi>
                   </title>
@@ -7487,7 +7487,7 @@
                         <supplied resp="#EW">[?]</supplied>
                         <persName>moore</persName>
                      </del> 
-                     <persName>chancellour</persName>
+                     <persName>chancellour </persName>
                   </title> 
                      auctorysshed by my <persName>Lorde of <placeName rend="smallcaps" type="pla">London</placeName>
                   </persName> 
@@ -7974,7 +7974,7 @@
                            bale
                         </surname>
                      </persName> 
-                     <title>agaynste</title> 
+                      agaynste  
                      <del>
                         <supplied resp="#EW">[?]</supplied>
                         <persName>
@@ -12294,7 +12294,7 @@
                              <surname>Tysdayle</surname>
                           </persName> for his lycense for pryntinge of <title>the Common places of <persName role="non-stationer">saynt
                                 <surname>Powles</surname>
-                              <supplied resp="#arber">[Paul’s]</supplied>
+                              <supplied resp="#arber"> [Paul’s]</supplied>
                            </persName> 
                              epistelles</title> 
                              <seg type="fee" rend="roman-numerals aligned-right"><!--processing: vjd-->
@@ -13164,7 +13164,7 @@
                      </persName> 
                   </head>
                         
-                            <p>Recevyd <supplied resp="#arber">[of]</supplied> 
+                            <p>Recevyd <supplied resp="#arber">[of] </supplied> 
                      <persName role="stationer enterer"> 
                         <forename>William</forename> 
                         <surname>Serys</surname>
@@ -13220,7 +13220,7 @@
                      </persName> 
                   </head>
                         
-                            <p>Recevyd <supplied resp="#arber">[of]</supplied> 
+                            <p>Recevyd <supplied resp="#arber">[of] </supplied> 
                      <persName role="stationer enterer"> 
                         <forename>Thomas</forename> 
                         <surname>Colwell</surname>
@@ -13493,7 +13493,7 @@
                      </persName> 
                   </head>
                         
-                            <p>Recevyd <supplied resp="#arber">[of]</supplied> 
+                            <p>Recevyd <supplied resp="#arber">[of] </supplied> 
                      <persName role="stationer enterer"> 
                         <forename>humffre</forename> 
                         <surname>Toye</surname>
@@ -13604,7 +13604,7 @@
                      </persName> 
                   </head>
                         
-                            <p>Recevyd <supplied resp="#arber">[of]</supplied> 
+                            <p>Recevyd <supplied resp="#arber">[of] </supplied> 
                      <persName role="stationer enterer"> 
                         <forename>Raufe</forename> 
                         <surname>newbery</surname>
@@ -14652,7 +14652,7 @@
                      </persName> 
                   </head>
                         
-                            <p>Recevyd <supplied resp="#arber">[of]</supplied> 
+                            <p>Recevyd <supplied resp="#arber">[of] </supplied> 
                      <persName role="stationer enterer"> 
                         <forename>Rowlande</forename> 
                         <surname>hall</surname>
@@ -18818,7 +18818,7 @@
                <date type="Register" notBefore="1562-07-22" notAfter="1563-07-22">22 July 1562 - 22 July 1563</date>
                      <num type="totalEntryPence" value="120"/>
                      
-                     <idno type="RegisterRef">Register A, f.90r-91r</idno>
+                     <idno type="RegisterRef">Register A, ff.90r-91r</idno>
                      <idno type="ArberRef">I. 211-213</idno>
                      <idno type="RegisterID">TSC-1-D-02-01_1554-1596_0208_f90r; TSC-1-D-02-01_1554-1596_0209_f90v;TSC-1-D-02-01_1554-1596_0210_f91r</idno>
                      <num type="works" value="27"/>
@@ -29270,7 +29270,7 @@
                <date type="Register" notBefore="1565-03-07" notAfter="1565-07-22">7 March 1565 - 22 July 1565</date>
                   <num type="totalEntryPence" value="80"/>
                   
-                  <idno type="RegisterRef">Register A, f.119v-120r</idno>
+                  <idno type="RegisterRef">Register A, ff.119v-120r</idno>
                   <idno type="ArberRef">I. 270-I. 271</idno>
                   <idno type="RegisterID">TSC-1-D-02-01_1554-1596_0267_f119v; TSC-1-D-02-01_1554-1596_0268_f120r</idno>
                   <num type="works" value="16"/>
