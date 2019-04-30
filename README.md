@@ -1,2 +1,1 @@
-SRO_data
-============= Repository for TEI-XML data created by the [Stationers' Register Online](http://stationersregister.online) project.
+Repository for TEI-XML data created by the [Stationers' Register Online](http://stationersregister.online) project.
