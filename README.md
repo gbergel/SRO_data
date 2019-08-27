@@ -1,3 +1,3 @@
-SRO_Arber_data
-==============
-This is a repository for TEI-XML data created by the Stationers' Register Online project. For more information about the project, see http://digital.humanities.ox.ac.uk/ProjectProfile/Project_page.aspx?pid=307. For contributor and development requests, contact Giles Bergel at gilesbergel@gmail.com. 
+Repository for TEI-XML data created by the [Stationers' Register Online](http://stationersregister.online) project.
+
+For the project's history see [here](https://digital.humanities.ox.ac.uk/project/stationers-register-online) and [here](http://www.create.ac.uk/blog/2017/02/24/create-support-stationers-register-online-project/). 
